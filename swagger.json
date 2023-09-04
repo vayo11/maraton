@@ -1,0 +1,23 @@
+{  
+    "swaggerDefinition": {
+        "swagger": "2.0",
+        "info": {
+          "version": "1.0.0", 
+          "title": "Habilitadores API Consentimientos",
+          "description": "Proyecto encargado de realizar operaciones sobre la base de datos de consentimientos",
+          "license": {
+            "name": "MIT",
+            "url": "https://opensource.org/licenses/MIT"
+          }
+        },
+        "host": "petstore.swagger.io",
+        "basePath": "/",
+        "tags": [
+
+        ],
+        "schemes": ["https"],
+        "consumes": ["application/json"],
+        "produces": ["application/json"]
+      },  
+    "apis":["docs/swagger-api-docs.js"]  
+}
